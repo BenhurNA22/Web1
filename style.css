@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color:chocolate;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+h3{
+    text-align: center;
+    color: olive;
+}
+h4{
+    text-align: center;
+    color: darkgreen;
+}
+h5{
+    text-align: center;
+    color: brown;
+}
+h6{
+    text-align: center;
+    color: indigo;
+}
+body {
+background-color: purple;
+background-image: radial-gradient(circle, #5c0067 0%, #ff8800 100%);
+opacity: 1;
+}
+p{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border: solid 2px grey;
+}
+#p1 {
+    color: crimson;
+}
